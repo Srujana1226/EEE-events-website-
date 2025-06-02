@@ -1,8 +1,8 @@
-# EEE WEBSITE
+# EEE-events-website 
 A Bootstrap multipurpose template
 
 # Demo
-- https://prixima.netlify.app/
+-https://eeeeventjntugvcev.com/
 
 # Clone Project
 - https://github.com/Srujana1226/EEE-events-website
