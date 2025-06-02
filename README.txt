@@ -1,11 +1,11 @@
-# Prixima
+# EEE WEBSITE
 A Bootstrap multipurpose template
 
 # Demo
 - https://prixima.netlify.app/
 
 # Clone Project
-- https://github.com/SA7MAN/Prixima
+- https://github.com/Srujana1226/EEE-events-website
 
 # Features
 - Fully Responsive
@@ -23,6 +23,4 @@ A Bootstrap multipurpose template
 - https://michalsnik.github.io/aos/
 
 
-# Watch more
-For more videos visit to my YouTube channel. [SA7MAN](https://www.youtube.com/c/SA7MAN)
 
